@@ -20,7 +20,7 @@ echo -e "
 sleep $medium_sleep
 
 # Developer info
-echo -e "\n ▶ Developer: @br0heart0G"
+echo -e "\n ▶ Developer: @RP_PAIN"
 echo -e " ▶ Version: Stable NR ✅"
 echo -e " ▶ Tools: Brevent 📱"
 echo -e " ▶ Status: No Root 🔓"
@@ -31,9 +31,8 @@ sleep $short_sleep
 echo -e "\n [ SUPPORT ME ]"
 sleep $short_sleep
 
-echo -e "\n ▶MY PV TELEGRAM @br0heart0G 🎥"
-echo -e " ▶ Telegram Gap: https://t.me/+MyALWZsx3RE4ZWY0 💬"
-echo -e " Telegram Channel: https://t.me/MY_Channel_br0heart0G"
+echo -e "\n ▶MY PV TELEGRAM @RP_PAiN 🎥"
+echo -e " ▶ Instagram: @IrivalYT "
 
 sleep $long_sleep
 
